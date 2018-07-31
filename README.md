@@ -52,6 +52,9 @@ Refer to installation
 * [JQuery](https://jquery.com/) - Javascript framework
 * [Font Awesome](https://greensock.com/tweenmax) - Font Script
 * [Zurb Foundation](https://foundation.zurb.com/) - The most advanced responsive front-end framework
+* [Nivo Slider](http://docs.dev7studios.com/jquery-plugins/nivo-slider) - Beautiful and easy to use image slider on the market
+* [Layer Slider] - Image Slider
+* [Sound Manager 2](http://www.schillmania.com/projects/soundmanager2) - Simple, reliable cross-platform audio under a single JavaScript API
 
 ## Contributing
 
